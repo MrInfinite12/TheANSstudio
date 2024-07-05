@@ -1,10 +1,6 @@
 # TheANSstudio V1.2 👩🏽‍🚀
 ANS studio firm
 
-<center>
-<img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
-</center>
-
 Live demo here: <a href="https://reactfolio.TheANSstudio.dev/" target="_blank">reactfolio.TheANSstudio.dev</a>
 <br/>
 Readme here: <a href="https://TheANSstudio.dev/portfolio/reactfolio/" target="_blank">TheANSstudio.dev/portfolio/reactfolio/</a>
