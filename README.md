@@ -1,9 +1,6 @@
 # TheANSstudio V1.2 👩🏽‍🚀
 ANS studio firm
 
-Live demo here: <a href="https://reactfolio.TheANSstudio.dev/" target="_blank">reactfolio.TheANSstudio.dev</a>
-<br/>
-Readme here: <a href="https://TheANSstudio.dev/portfolio/reactfolio/" target="_blank">TheANSstudio.dev/portfolio/reactfolio/</a>
 
 - [TheANSstudio V1.2 👩🏽‍🚀](#theansstudio-v12-)
   - [📙 Features](#-features)
